@@ -1,0 +1,53 @@
+.container{
+    height: 300;
+    width: 1100px;
+    background: white;
+    position: absolute ;
+    top: 20%;
+    margin-left:200px;
+}
+.bigheading{
+  text-align:left;
+  margin: ;
+  font-size: 3rem;
+  color:#B25ED3;
+  top:10%;
+}
+.image{
+    display: block;
+    float: right;
+    display: flex;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+#mid{
+  background: #E6E6FA;
+  height: 600px;
+  width: 100vw;
+}
+#abt{
+  background: #E6E6FA;
+  height: 350px;
+  width: 100vw;
+
+
+}
+
+.about{
+    height: 300px;
+    width: 1100px;
+    background: white;
+    position: absolute ;
+    margin: auto;
+}
+#contact{
+  padding: 5% 3%;
+  background-color:#C39BD3 ;
+  color:white;
+  font-family: 'Merriweather', serif;
+  width: 100vw;
+  text-align: center;
+}
